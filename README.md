@@ -2,8 +2,6 @@
 
 # ePortfolio Tool for University Students
 
-![node.js coverage](https://github.com/spe-uob/ePortFolioRepo/workflows/node.js%20coverage/badge.svg?branch=main)
-![maven coverage](https://github.com/spe-uob/ePortFolioRepo/workflows/maven%20coverage/badge.svg?branch=main)
 
 </div>
 
